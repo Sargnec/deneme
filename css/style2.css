@@ -6,7 +6,7 @@ body {
   box-sizing: border-box; 
   color: #333; 
   overflow: auto;
-  background: linear-gradient(90deg, rgba(19,151,176,0.8463760504201681) 15%, rgba(169,178,180,0.8547794117647058) 85%);
+  background-image: url(alena-aenami-skylight1920.jpg);
 }
 
 body, html {
