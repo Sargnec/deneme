@@ -82,6 +82,7 @@ body {
     margin-bottom: 0;
 }
 .aenami{
+    font-size:11px;
     text-decoration: none; 
     border: none;
     display: flex;
